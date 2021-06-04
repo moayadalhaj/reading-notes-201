@@ -4,7 +4,7 @@
 
 | # | Topics
 | ----------- | ----------- |
-| class-01 | [Introductory HTML and JavaScript](class-02.md) |
+| class-01 | [Introductory HTML and JavaScript](https://moayadalhaj.github.io/reading-notes-201/class-02.md) |
 | class-02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions]() |
 | class-03 |[HTML Lists, CSS Boxes, JS Control Flow]() |
 | class-04 |[HTML Links, CSS Layout, JS Functions]() |
