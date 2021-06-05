@@ -1,6 +1,7 @@
 # Code 201 Reading Notes
 -------
 
+Here is the table of content for all reading topics:
 
 | # | Topics
 | ----------- | ----------- |
