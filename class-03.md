@@ -49,11 +49,12 @@
 
 **Two values for the overflow when the content is larger than the box: hidden or scroll**
 
-`border: ;`
+`border: ;`                                  
 
 `padding: ;`
 
 `margin: ;`
+![Box Model](box-model.png)
 
 **these three mainly to control its appearance if the content**
 
