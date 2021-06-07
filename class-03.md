@@ -13,13 +13,16 @@
 ```
 
 - Bullet lists (unordered):
+
 ```
 <ul>
     <li>
     </li>
 </ul>   
 ```
+
 - Definition lists (set of terms with definitions):
+
 ```
 <dl>
     <dt>
@@ -28,6 +31,7 @@
     </dt>
 </dl>   
 ```
+
 **Lists can be nested inside one another by `<li>`**
 
 ## CH 13: BOXES
