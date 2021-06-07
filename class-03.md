@@ -4,12 +4,14 @@
 ## CH 3: LISTS
 
 - Numbered lists (ordered):
+
 ```
 <ol>
     <li>
     </li>
-</ol>        
+</ol>
 ```
+
 - Bullet lists (unordered):
 ```
 <ul>
