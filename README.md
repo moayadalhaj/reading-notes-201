@@ -8,7 +8,7 @@ Here is the table of content for all reading topics:
 | class-01 | [Introductory HTML and JavaScript](https://moayadalhaj.github.io/reading-notes-201/class-01) |
 | class-02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://moayadalhaj.github.io/reading-notes-201/class-02) |
 | class-03 |[HTML Lists, CSS Boxes, JS Control Flow](https://moayadalhaj.github.io/reading-notes-201/class-03) |
-| class-04 |[HTML Links, CSS Layout, JS Functions]() |
+| class-04 |[HTML Links, CSS Layout, JS Functions](https://moayadalhaj.github.io/reading-notes-201/class-04) |
 | class-05 | [HTML Images; CSS Color & Text]() |
 | class-06 | [ JS Object Literals; The DOM]() |
 | class-07 | [HTML Tables; JS Constructor Functions]() |
