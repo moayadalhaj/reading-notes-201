@@ -43,4 +43,12 @@
 
 ## pair programming
 
-*This is mainly a collaborative envioronment for the programmers to share a single workstation to interactively tackle a coding task together.*
+*This is mainly a collaborative environment for the programmers to share a single workstation to interactively tackle a coding task together.*
+### Why pair program?
+
+- Greater efficiency
+- Engaged collaboration
+- Learning from fellow students
+- Social skills
+- Job interview readiness
+- Work environment readiness
