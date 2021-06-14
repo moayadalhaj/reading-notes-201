@@ -12,7 +12,7 @@ Here is the table of content for all reading topics:
 | class-05 | [HTML Images; CSS Color & Text](https://moayadalhaj.github.io/reading-notes-201/class-05) |
 | class-06 | [ JS Object Literals; The DOM](https://moayadalhaj.github.io/reading-notes-201/class-06) |
 | class-07 | [HTML Tables; JS Constructor Functions](https://moayadalhaj.github.io/reading-notes-201/class-07) |
-| class-08 | [More CSS Layout]() |
+| class-08 | [More CSS Layout](https://moayadalhaj.github.io/reading-notes-201/class-08) |
 | class-09 | [Forms and Events]() |
 | class-10 |[JS Debugging]() |
 | class-11 |[Assorted Topics]() |
