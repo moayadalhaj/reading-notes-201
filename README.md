@@ -17,6 +17,6 @@ Here is the table of content for all reading topics:
 | class-10 |[JS Debugging](https://moayadalhaj.github.io/reading-notes-201/class-10) |
 | class-11 |[Assorted Topics](https://moayadalhaj.github.io/reading-notes-201/class-11) |
 | class-12 |[Docs for the HTML Element & Chart.js](https://moayadalhaj.github.io/reading-notes-201/class-12) |
-| class-13 |[Local Storage]() |
+| class-13 |[Local Storage](https://moayadalhaj.github.io/reading-notes-201/class-13) |
 | class-14a|[CSS Transforms, Transitions, and Animations]() |
 | class-14b|[What Google Learned About Teams]() |
